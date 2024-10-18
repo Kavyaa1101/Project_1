@@ -42,6 +42,7 @@ input {
 h3 {
     margin-left: 30px;
     color: rgb(26, 112, 233);
+    cursor: pointer; 
 }
 
 .content h3 {
