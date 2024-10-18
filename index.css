@@ -13,6 +13,11 @@ body {
 .container {
     text-align: center;
     font-style: inherit;
+}
+
+.container {
+   color: rgb(26, 112, 233);
+   cursor: pointer; 
 
 }
 
