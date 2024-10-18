@@ -30,6 +30,7 @@ body {
 .container h2 {
     font-optical-sizing: 500px;
     color: black;
+    cursor: default;
 }
 
 .one{
