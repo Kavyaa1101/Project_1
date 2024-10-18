@@ -15,11 +15,10 @@ body {
     font-style: inherit;
 }
 
-.container p {
-   color: rgb(26, 112, 233);
-   cursor: pointer; 
-
-}
+ p {
+      color: rgb(26, 112, 233);
+      cursor: pointer;
+    }
 
 .container img {
     margin-top: 20px;
