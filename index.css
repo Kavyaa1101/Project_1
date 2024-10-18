@@ -29,8 +29,12 @@ body {
 
 .container h2 {
     font-optical-sizing: 500px;
+    color : black;
 }
 
+.one{
+    color : black;
+}
 input {
     height: 40px;
     width: 350px;
