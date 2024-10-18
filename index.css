@@ -15,9 +15,10 @@ body {
     font-style: inherit;
 }
 
- b {
+ p {
       color: rgb(26, 112, 233);
       cursor: pointer;
+     font-weight: bold;
     }
 
 .container img {
