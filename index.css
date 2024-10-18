@@ -15,7 +15,7 @@ body {
     font-style: inherit;
 }
 
-.container {
+.container p {
    color: rgb(26, 112, 233);
    cursor: pointer; 
 
